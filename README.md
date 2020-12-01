@@ -1,2 +1,3 @@
-# community-guide
-Wiki hosting for the Zinc Community Guide
+# Zinc Community Guide
+
+Content for the Zinc Community Guide.
