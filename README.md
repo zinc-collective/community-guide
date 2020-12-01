@@ -1,3 +1,3 @@
-# Zinc Community Guide
+# Zinc Community Guide Wiki
 
-[https://github.com/zinc-collective/community-guide/wiki](Wiki) for the Zinc Community Guide.
+[Wiki](https://github.com/zinc-collective/community-guide/wiki) for the Zinc Community Guide.
